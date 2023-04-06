@@ -1,0 +1,21 @@
+
+
+*{
+   
+    font-family: 'Brush Script MT', cursive;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+  font-weight: 900;
+}
+
+a {
+    color: rgb(110, 42, 76);
+    text-decoration: none;
+    font-size: 18px;
+  }
+  ul{
+    list-style-type: circle;
+  }
